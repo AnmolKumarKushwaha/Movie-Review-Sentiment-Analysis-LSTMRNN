@@ -10,4 +10,5 @@ The architecture was optimized using the **Adam optimizer** and regularized thro
 
 The final model demonstrated strong generalization with a **Training Accuracy of 94.20%**, **Validation Accuracy of 87.96%**, and **Test Accuracy of 87.36%**, reflecting robust performance and effective overfitting control.  
 
-This project was later integrated with a **Streamlit web interface**, allowing users to input custom movie reviews and instantly receive a predicted sentiment (positive or negative) based on the trained model.
+This project was later integrated with a **Streamlit web interface**, allowing users to input custom movie reviews and instantly receive a predicted sentiment (positive or negative) based on the trained model.  
+It was also **successfully deployed on the Streamlit.io platform**, providing a user-friendly interface for live interaction with the model.
